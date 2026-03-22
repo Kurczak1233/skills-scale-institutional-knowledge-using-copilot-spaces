@@ -36,8 +36,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (see `octoacme-cross-functional-kickoff-checklist.md`)
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted by QA Lead
+- [ ] UX designs scheduled or delivered for sprint 1 stories
+- [ ] Infrastructure/environment plan confirmed with DevOps Engineer
+- [ ] Business Analyst has confirmed acceptance criteria are unambiguous
+- [ ] RACI reviewed with team (`octoacme-raci-mapping.md`)

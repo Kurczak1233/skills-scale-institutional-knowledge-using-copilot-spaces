@@ -23,6 +23,16 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 
+### QA Lead Ownership
+The **QA Lead** is accountable for the overall test strategy and quality gates at each phase:
+- Maintains the test strategy document and Definition of Done criteria
+- Reviews acceptance criteria for all backlog items before development begins
+- Owns the QA column on the project board — items cannot move to Done without QA sign-off
+- Tracks defect metrics and reports blocking issues in the weekly delivery sync
+- Provides release readiness sign-off before any deployment to production
+
+See `octoacme-raci-mapping.md` for the full quality-related RACI.
+
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager

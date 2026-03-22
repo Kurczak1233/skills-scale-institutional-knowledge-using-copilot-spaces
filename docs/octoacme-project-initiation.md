@@ -41,3 +41,5 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+Once the decision gate is passed, use the **Cross-Functional Kickoff Checklist** (`octoacme-cross-functional-kickoff-checklist.md`) to prepare and run the project kickoff before sprint planning begins.
