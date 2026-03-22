@@ -14,6 +14,18 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- QA Lead has provided release readiness sign-off
+- Support Specialist has reviewed release notes and confirmed support documentation is up to date
+
+### DevOps Engineer Responsibilities
+The **DevOps Engineer** owns the deployment process end-to-end:
+- Maintains CI/CD pipelines and deployment runbooks
+- Schedules deployment windows and communicates them to the Project Manager
+- Executes staged rollouts and monitors post-deploy signals (errors, latency, availability)
+- Is the primary responder for deployment failures and coordinates rollback decisions
+- Partners with the QA Lead to provision and maintain test and staging environments
+
+See `octoacme-raci-mapping.md` for the full release-related RACI.
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
